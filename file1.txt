@@ -2,3 +2,4 @@ This is new file for Devops course.
 This is second line.
 This third line.
 New line.
+New line is added.
